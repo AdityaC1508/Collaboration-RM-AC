@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 
+//DEMO
 // Binary search implementation
 int binarySearch(const std::vector<int>& arr, int target) {
     int left = 0;
