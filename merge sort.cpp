@@ -1,6 +1,8 @@
 #include <iostream>
 #include <vector>
 
+
+//
 // Merge two sorted subarrays into a single sorted subarray
 void merge(std::vector<int>& arr, int left, int mid, int right) {
     int n1 = mid - left + 1;  // Number of elements in the left subarray
